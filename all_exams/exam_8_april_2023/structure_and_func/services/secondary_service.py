@@ -1,4 +1,4 @@
-from oop.all_exams.exam_8_april_2023.structure_and_func.services.base_service import BaseService
+from all_exams.exam_8_april_2023.structure_and_func.services.base_service import BaseService
 
 
 class SecondaryService(BaseService):

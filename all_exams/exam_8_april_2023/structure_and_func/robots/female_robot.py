@@ -1,4 +1,4 @@
-from oop.all_exams.exam_8_april_2023.structure_and_func.robots.base_robot import BaseRobot
+from all_exams.exam_8_april_2023.structure_and_func.robots.base_robot import BaseRobot
 
 
 class FemaleRobot(BaseRobot):

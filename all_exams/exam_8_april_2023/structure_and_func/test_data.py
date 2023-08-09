@@ -1,4 +1,4 @@
-from oop.all_exams.exam_8_april_2023.structure_and_func.robots_managing_app import RobotsManagingApp
+from all_exams.exam_8_april_2023.structure_and_func.robots_managing_app import RobotsManagingApp
 
 main_app = RobotsManagingApp()
 print(main_app.add_service('SecondaryService', 'ServiceRobotsWorld'))

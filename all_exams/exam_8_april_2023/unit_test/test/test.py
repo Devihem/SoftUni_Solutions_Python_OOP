@@ -1,4 +1,4 @@
-from oop.all_exams.exam_8_april_2023.unit_test.tennis_player import TennisPlayer
+from all_exams.exam_8_april_2023.unit_test.tennis_player import TennisPlayer
 from unittest import TestCase, main
 
 

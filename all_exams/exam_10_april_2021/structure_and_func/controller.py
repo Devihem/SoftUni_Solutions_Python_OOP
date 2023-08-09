@@ -1,10 +1,10 @@
-from oop.all_exams.exam_10_april_2021.structure_and_func.aquarium.freshwater_aquarium import FreshwaterAquarium
-from oop.all_exams.exam_10_april_2021.structure_and_func.aquarium.saltwater_aquarium import SaltwaterAquarium
-from oop.all_exams.exam_10_april_2021.structure_and_func.decoration.plant import Plant
-from oop.all_exams.exam_10_april_2021.structure_and_func.decoration.ornament import Ornament
-from oop.all_exams.exam_10_april_2021.structure_and_func.fish.saltwater_fish import SaltwaterFish
-from oop.all_exams.exam_10_april_2021.structure_and_func.fish.freshwater_fish import FreshwaterFish
-from oop.all_exams.exam_10_april_2021.structure_and_func.decoration.decoration_repository import DecorationRepository
+from all_exams.exam_10_april_2021.structure_and_func.aquarium.freshwater_aquarium import FreshwaterAquarium
+from all_exams.exam_10_april_2021.structure_and_func.aquarium.saltwater_aquarium import SaltwaterAquarium
+from all_exams.exam_10_april_2021.structure_and_func.decoration.plant import Plant
+from all_exams.exam_10_april_2021.structure_and_func.decoration.ornament import Ornament
+from all_exams.exam_10_april_2021.structure_and_func.fish.saltwater_fish import SaltwaterFish
+from all_exams.exam_10_april_2021.structure_and_func.fish.freshwater_fish import FreshwaterFish
+from all_exams.exam_10_april_2021.structure_and_func.decoration.decoration_repository import DecorationRepository
 
 
 class Controller:

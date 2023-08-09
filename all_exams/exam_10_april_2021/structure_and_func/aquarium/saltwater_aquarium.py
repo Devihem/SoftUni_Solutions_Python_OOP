@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_april_2021.structure_and_func.aquarium.base_aquarium import BaseAquarium
+from all_exams.exam_10_april_2021.structure_and_func.aquarium.base_aquarium import BaseAquarium
 
 
 class SaltwaterAquarium(BaseAquarium):

@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_april_2021.unit_test.project.train.train import Train
+from all_exams.exam_10_april_2021.unit_test.project.train.train import Train
 from unittest import TestCase, main
 
 

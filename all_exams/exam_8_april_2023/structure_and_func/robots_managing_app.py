@@ -1,7 +1,7 @@
-from oop.all_exams.exam_8_april_2023.structure_and_func.robots.male_robot import MaleRobot
-from oop.all_exams.exam_8_april_2023.structure_and_func.robots.female_robot import FemaleRobot
-from oop.all_exams.exam_8_april_2023.structure_and_func.services.main_service import MainService
-from oop.all_exams.exam_8_april_2023.structure_and_func.services.secondary_service import SecondaryService
+from all_exams.exam_8_april_2023.structure_and_func.robots.male_robot import MaleRobot
+from all_exams.exam_8_april_2023.structure_and_func.robots.female_robot import FemaleRobot
+from all_exams.exam_8_april_2023.structure_and_func.services.main_service import MainService
+from all_exams.exam_8_april_2023.structure_and_func.services.secondary_service import SecondaryService
 
 
 class RobotsManagingApp:

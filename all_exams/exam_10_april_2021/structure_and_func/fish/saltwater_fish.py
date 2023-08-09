@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_april_2021.structure_and_func.fish.base_fish import BaseFish
+from all_exams.exam_10_april_2021.structure_and_func.fish.base_fish import BaseFish
 
 
 class SaltwaterFish(BaseFish):
