@@ -1,4 +1,4 @@
-from oop.all_exams.exam_5_august_2023.main_task.loans.base_loan import BaseLoan
+from all_exams.exam_5_august_2023.main_task.loans.base_loan import BaseLoan
 
 
 class MortgageLoan(BaseLoan):

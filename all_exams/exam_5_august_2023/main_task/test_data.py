@@ -1,4 +1,4 @@
-from oop.all_exams.exam_5_august_2023.main_task.bank_app import BankApp
+from all_exams.exam_5_august_2023.main_task.bank_app import BankApp
 
 bank = BankApp(3)
 

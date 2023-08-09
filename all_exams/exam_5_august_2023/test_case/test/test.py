@@ -1,4 +1,4 @@
-from oop.all_exams.exam_5_august_2023.test_case.second_hand_car import SecondHandCar
+from all_exams.exam_5_august_2023.test_case.second_hand_car import SecondHandCar
 from unittest import TestCase, main
 
 

@@ -1,7 +1,7 @@
 from all_exams.exam_5_august_2023.main_task.clients.adult import Adult
-from oop.all_exams.exam_5_august_2023.main_task.clients.student import Student
-from oop.all_exams.exam_5_august_2023.main_task.loans.student_loan import StudentLoan
-from oop.all_exams.exam_5_august_2023.main_task.loans.mortgage_loan import MortgageLoan
+from all_exams.exam_5_august_2023.main_task.clients.student import Student
+from all_exams.exam_5_august_2023.main_task.loans.student_loan import StudentLoan
+from all_exams.exam_5_august_2023.main_task.loans.mortgage_loan import MortgageLoan
 
 
 class BankApp:

@@ -1,4 +1,4 @@
-from oop.all_exams.exam_5_august_2023.main_task.clients.base_client import BaseClient
+from all_exams.exam_5_august_2023.main_task.clients.base_client import BaseClient
 
 
 class Adult(BaseClient):
