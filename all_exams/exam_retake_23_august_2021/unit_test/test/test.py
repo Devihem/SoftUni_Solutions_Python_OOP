@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_23_august_2021.unit_test.library import Library
+from all_exams.exam_retake_23_august_2021.unit_test.library import Library
 from unittest import TestCase, main
 
 

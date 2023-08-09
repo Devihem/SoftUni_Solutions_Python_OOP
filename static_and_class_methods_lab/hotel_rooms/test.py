@@ -1,5 +1,5 @@
-from oop.static_and_class_methods_lab.hotel_rooms.hotel import Hotel
-from oop.static_and_class_methods_lab.hotel_rooms.room import Room
+from static_and_class_methods_lab.hotel_rooms.hotel import Hotel
+from static_and_class_methods_lab.hotel_rooms.room import Room
 import unittest
 
 

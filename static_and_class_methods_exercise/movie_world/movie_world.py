@@ -1,5 +1,5 @@
-from oop.static_and_class_methods_exercise.movie_world.customer import Customer
-from oop.static_and_class_methods_exercise.movie_world.dvd import DVD
+from static_and_class_methods_exercise.movie_world.customer import Customer
+from static_and_class_methods_exercise.movie_world.dvd import DVD
 
 
 class MovieWorld:

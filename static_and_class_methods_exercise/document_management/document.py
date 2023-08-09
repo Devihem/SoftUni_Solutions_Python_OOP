@@ -1,5 +1,5 @@
-from oop.static_and_class_methods_exercise.document_management.topic import Topic
-from oop.static_and_class_methods_exercise.document_management.category import Category
+from static_and_class_methods_exercise.document_management.topic import Topic
+from static_and_class_methods_exercise.document_management.category import Category
 
 
 class Document:

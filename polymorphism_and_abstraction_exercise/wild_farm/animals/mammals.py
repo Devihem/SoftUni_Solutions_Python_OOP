@@ -1,6 +1,6 @@
 from abc import ABC
-from oop.all_exams.exam_16_august_2020.unit_test.project import Meat, Vegetable, Fruit
-from oop.all_exams.exam_16_august_2020.unit_test.project import Mammal
+from all_exams.exam_16_august_2020.unit_test.project import Meat, Vegetable, Fruit
+from all_exams.exam_16_august_2020.unit_test.project import Mammal
 
 
 class Mouse(Mammal, ABC):

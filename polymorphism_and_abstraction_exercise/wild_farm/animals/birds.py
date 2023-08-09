@@ -1,6 +1,6 @@
-from oop.all_exams.exam_16_august_2020.unit_test.project import Bird
+from all_exams.exam_16_august_2020.unit_test.project import Bird
 from abc import ABC
-from oop.all_exams.exam_16_august_2020.unit_test.project import Meat, Vegetable, Seed, Fruit
+from all_exams.exam_16_august_2020.unit_test.project import Meat, Vegetable, Seed, Fruit
 
 
 class Owl(Bird, ABC):

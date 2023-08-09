@@ -1,6 +1,6 @@
-from oop.static_and_class_methods_exercise.movie_world.customer import Customer
-from oop.static_and_class_methods_exercise.movie_world.dvd import DVD
-from oop.static_and_class_methods_exercise.movie_world.movie_world import MovieWorld
+from static_and_class_methods_exercise.movie_world.customer import Customer
+from static_and_class_methods_exercise.movie_world.dvd import DVD
+from static_and_class_methods_exercise.movie_world.movie_world import MovieWorld
 c1 = Customer("John", 16, 1)
 c2 = Customer("Anna", 55, 2)
 d1 = DVD("Black Widow", 1, 2020, "April", 18)

@@ -1,6 +1,6 @@
-from oop.static_and_class_methods_exercise.document_management.topic import Topic
-from oop.static_and_class_methods_exercise.document_management.category import Category
-from oop.static_and_class_methods_exercise.document_management.document import Document
+from static_and_class_methods_exercise.document_management.topic import Topic
+from static_and_class_methods_exercise.document_management.category import Category
+from static_and_class_methods_exercise.document_management.document import Document
 
 
 class Storage:

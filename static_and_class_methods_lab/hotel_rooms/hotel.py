@@ -1,4 +1,4 @@
-from oop.static_and_class_methods_lab.hotel_rooms.room import Room
+from static_and_class_methods_lab.hotel_rooms.room import Room
 
 
 class Hotel:
