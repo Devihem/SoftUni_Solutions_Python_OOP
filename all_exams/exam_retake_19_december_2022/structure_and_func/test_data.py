@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.concert_tracker_app import ConcertTrackerApp
+from all_exams.exam_retake_19_december_2022.structure_and_func.concert_tracker_app import ConcertTrackerApp
 
 musician_types = ["Singer", "Drummer", "Guitarist"]
 names = ["George", "Alex", "Lilly"]

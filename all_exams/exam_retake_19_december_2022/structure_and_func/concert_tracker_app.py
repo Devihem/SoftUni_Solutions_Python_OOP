@@ -1,8 +1,8 @@
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.concert import Concert
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.band import Band
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.band_members.singer import Singer
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.band_members.guitarist import Guitarist
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.band_members.drummer import Drummer
+from all_exams.exam_retake_19_december_2022.structure_and_func.concert import Concert
+from all_exams.exam_retake_19_december_2022.structure_and_func.band import Band
+from all_exams.exam_retake_19_december_2022.structure_and_func.band_members.singer import Singer
+from all_exams.exam_retake_19_december_2022.structure_and_func.band_members.guitarist import Guitarist
+from all_exams.exam_retake_19_december_2022.structure_and_func.band_members.drummer import Drummer
 
 
 class ConcertTrackerApp:

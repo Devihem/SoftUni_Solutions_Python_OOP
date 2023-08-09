@@ -1,5 +1,5 @@
-from oop.all_exams.exam_10_april_2022.structure_and_func.player import Player
-from oop.all_exams.exam_10_april_2022.structure_and_func.supply.supply import Supply
+from all_exams.exam_10_april_2022.structure_and_func.player import Player
+from all_exams.exam_10_april_2022.structure_and_func.supply.supply import Supply
 
 
 class Controller:

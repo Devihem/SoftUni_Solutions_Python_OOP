@@ -1,4 +1,4 @@
-from oop.all_exams.exam_15_august_2021.structure_and_func.table.table import Table
+from all_exams.exam_15_august_2021.structure_and_func.table.table import Table
 
 
 class InsideTable(Table):

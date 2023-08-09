@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_22_august_2022.unit_test.shopping_cart import ShoppingCart
+from all_exams.exam_retake_22_august_2022.unit_test.shopping_cart import ShoppingCart
 from unittest import TestCase, main
 
 

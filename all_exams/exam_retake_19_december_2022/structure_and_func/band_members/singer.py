@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_19_december_2022.structure_and_func.band_members.musician import Musician
+from all_exams.exam_retake_19_december_2022.structure_and_func.band_members.musician import Musician
 
 
 class Singer(Musician):

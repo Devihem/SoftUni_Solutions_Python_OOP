@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_22_august_2020.unit_test.student_report_card import StudentReportCard
+from all_exams.exam_retake_22_august_2020.unit_test.student_report_card import StudentReportCard
 from unittest import TestCase, main
 
 

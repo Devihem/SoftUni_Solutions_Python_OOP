@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_18_april_2022.unit_test.plantation import Plantation
+from all_exams.exam_retake_18_april_2022.unit_test.plantation import Plantation
 from unittest import TestCase, main
 
 

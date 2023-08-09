@@ -1,6 +1,6 @@
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.movie_app import MovieApp
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.fantasy import Fantasy
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.action import Action
+from all_exams.exam_retake_18_april_2022.structure_and_func.movie_app import MovieApp
+from all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.fantasy import Fantasy
+from all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.action import Action
 
 movie_app = MovieApp()
 print(movie_app.register_user('Martin', 24))

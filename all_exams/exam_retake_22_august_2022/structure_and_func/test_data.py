@@ -1,7 +1,7 @@
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.food_orders_app import FoodOrdersApp
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.starter import Starter
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.dessert import Dessert
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.main_dish import MainDish
+from all_exams.exam_retake_22_august_2022.structure_and_func.food_orders_app import FoodOrdersApp
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.starter import Starter
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.dessert import Dessert
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.main_dish import MainDish
 
 food_orders_app = FoodOrdersApp()
 print(food_orders_app.register_client("0899999999"))

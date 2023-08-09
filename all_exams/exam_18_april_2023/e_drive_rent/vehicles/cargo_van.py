@@ -1,4 +1,4 @@
-from oop.all_exams.exam_18_april_2023.e_drive_rent.vehicles.base_vehicle import BaseVehicle
+from all_exams.exam_18_april_2023.e_drive_rent.vehicles.base_vehicle import BaseVehicle
 
 
 class CargoVan(BaseVehicle):

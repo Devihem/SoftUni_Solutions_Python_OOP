@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_22_august_2020.structure_and_func.rooms.room import Room
+from all_exams.exam_retake_22_august_2020.structure_and_func.rooms.room import Room
 
 
 class YoungCouple(Room):

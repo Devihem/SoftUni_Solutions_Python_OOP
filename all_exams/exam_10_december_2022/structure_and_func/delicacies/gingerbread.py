@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_december_2022.structure_and_func.delicacies.delicacy import Delicacy
+from all_exams.exam_10_december_2022.structure_and_func.delicacies.delicacy import Delicacy
 
 
 class Gingerbread(Delicacy):

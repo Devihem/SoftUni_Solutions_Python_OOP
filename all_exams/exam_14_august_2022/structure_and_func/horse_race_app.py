@@ -1,7 +1,7 @@
-from oop.all_exams.exam_14_august_2022.structure_and_func.horse_specification.appaloosa import Appaloosa
-from oop.all_exams.exam_14_august_2022.structure_and_func.horse_specification.thoroughbred import Thoroughbred
-from oop.all_exams.exam_14_august_2022.structure_and_func.horse_race import HorseRace
-from oop.all_exams.exam_14_august_2022.structure_and_func.jockey import Jockey
+from all_exams.exam_14_august_2022.structure_and_func.horse_specification.appaloosa import Appaloosa
+from all_exams.exam_14_august_2022.structure_and_func.horse_specification.thoroughbred import Thoroughbred
+from all_exams.exam_14_august_2022.structure_and_func.horse_race import HorseRace
+from all_exams.exam_14_august_2022.structure_and_func.jockey import Jockey
 
 
 class HorseRaceApp:

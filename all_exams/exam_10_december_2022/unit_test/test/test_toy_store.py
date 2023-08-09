@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_december_2022.unit_test.toy_store import ToyStore
+from all_exams.exam_10_december_2022.unit_test.toy_store import ToyStore
 from unittest import TestCase, main
 
 

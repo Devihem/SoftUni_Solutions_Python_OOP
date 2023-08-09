@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_december_2022.structure_and_func.booths.booth import Booth
+from all_exams.exam_10_december_2022.structure_and_func.booths.booth import Booth
 
 
 class OpenBooth(Booth):

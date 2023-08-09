@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_december_2022.structure_and_func.christmas_pastry_shop_app import ChristmasPastryShopApp
+from all_exams.exam_10_december_2022.structure_and_func.christmas_pastry_shop_app import ChristmasPastryShopApp
 
 shop = ChristmasPastryShopApp()
 print(shop.add_delicacy("Gingerbread", "Gingy", 5.20))

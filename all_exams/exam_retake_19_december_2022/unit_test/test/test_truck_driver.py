@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_19_december_2022.unit_test.truck_driver import TruckDriver
+from all_exams.exam_retake_19_december_2022.unit_test.truck_driver import TruckDriver
 from unittest import TestCase, main
 
 

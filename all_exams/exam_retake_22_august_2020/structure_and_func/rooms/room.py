@@ -1,7 +1,7 @@
-from oop.all_exams.exam_retake_22_august_2020.structure_and_func.appliances.fridge import Fridge
-from oop.all_exams.exam_retake_22_august_2020.structure_and_func.appliances.laptop import Laptop
-from oop.all_exams.exam_retake_22_august_2020.structure_and_func.appliances.stove import Stove
-from oop.all_exams.exam_retake_22_august_2020.structure_and_func.appliances.tv import TV
+from all_exams.exam_retake_22_august_2020.structure_and_func.appliances.fridge import Fridge
+from all_exams.exam_retake_22_august_2020.structure_and_func.appliances.laptop import Laptop
+from all_exams.exam_retake_22_august_2020.structure_and_func.appliances.stove import Stove
+from all_exams.exam_retake_22_august_2020.structure_and_func.appliances.tv import TV
 
 
 class Room:

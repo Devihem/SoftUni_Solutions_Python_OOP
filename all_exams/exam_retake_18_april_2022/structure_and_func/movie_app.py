@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.user import User
+from all_exams.exam_retake_18_april_2022.structure_and_func.user import User
 
 
 class MovieApp:
@@ -86,7 +86,7 @@ class MovieApp:
         result = "No movies found."
 
         if self.movies_collection:
-            result = sorted(self.movies_collection, key=lambda k: (-k.year, k.title()))
+            result = sorted(self.movies_collection, key=lambda k: (-k.year, k.title))
             result = '\n'.join([movie.details() for movie in result])
 
         return result

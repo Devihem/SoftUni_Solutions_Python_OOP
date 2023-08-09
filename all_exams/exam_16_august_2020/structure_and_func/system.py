@@ -1,7 +1,7 @@
-from oop.all_exams.exam_16_august_2020.structure_and_func.software.light_software import LightSoftware
-from oop.all_exams.exam_16_august_2020.structure_and_func.software.express_software import ExpressSoftware
-from oop.all_exams.exam_16_august_2020.structure_and_func.hardware.power_hardware import PowerHardware
-from oop.all_exams.exam_16_august_2020.structure_and_func.hardware.heavy_hardware import HeavyHardware
+from all_exams.exam_16_august_2020.structure_and_func.software.light_software import LightSoftware
+from all_exams.exam_16_august_2020.structure_and_func.software.express_software import ExpressSoftware
+from all_exams.exam_16_august_2020.structure_and_func.hardware.power_hardware import PowerHardware
+from all_exams.exam_16_august_2020.structure_and_func.hardware.heavy_hardware import HeavyHardware
 
 
 class System:

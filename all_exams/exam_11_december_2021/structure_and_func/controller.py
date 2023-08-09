@@ -1,7 +1,7 @@
-from oop.all_exams.exam_11_december_2021.structure_and_func.car.muscle_car import MuscleCar
-from oop.all_exams.exam_11_december_2021.structure_and_func.car.sports_car import SportsCar
-from oop.all_exams.exam_11_december_2021.structure_and_func.race import Race
-from oop.all_exams.exam_11_december_2021.structure_and_func.driver import Driver
+from all_exams.exam_11_december_2021.structure_and_func.car.muscle_car import MuscleCar
+from all_exams.exam_11_december_2021.structure_and_func.car.sports_car import SportsCar
+from all_exams.exam_11_december_2021.structure_and_func.race import Race
+from all_exams.exam_11_december_2021.structure_and_func.driver import Driver
 
 
 class Controller:

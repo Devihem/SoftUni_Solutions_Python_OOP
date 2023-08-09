@@ -1,4 +1,4 @@
-from oop.all_exams.exam_10_april_2022.unit_test.movie import Movie
+from all_exams.exam_10_april_2022.unit_test.movie import Movie
 from unittest import TestCase, main
 
 

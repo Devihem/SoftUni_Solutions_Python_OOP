@@ -1,4 +1,4 @@
-from oop.all_exams.exam_11_december_2021.structure_and_func.controller import Controller
+from all_exams.exam_11_december_2021.structure_and_func.controller import Controller
 
 controller = Controller()
 print(controller.create_driver("Peter"))

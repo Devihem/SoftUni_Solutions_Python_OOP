@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.meal import Meal
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.meal import Meal
 
 
 class MainDish(Meal):

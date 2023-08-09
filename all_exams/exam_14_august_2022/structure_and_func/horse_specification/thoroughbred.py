@@ -1,4 +1,4 @@
-from oop.all_exams.exam_14_august_2022.structure_and_func.horse_specification.horse import Horse
+from all_exams.exam_14_august_2022.structure_and_func.horse_specification.horse import Horse
 
 
 class Thoroughbred(Horse):

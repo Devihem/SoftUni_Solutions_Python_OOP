@@ -1,4 +1,4 @@
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.movie import Movie
+from all_exams.exam_retake_18_april_2022.structure_and_func.movie_specification.movie import Movie
 
 
 class Action(Movie):

@@ -1,5 +1,5 @@
 from math import floor
-from oop.all_exams.exam_16_august_2020.structure_and_func.hardware.hardware import Hardware
+from all_exams.exam_16_august_2020.structure_and_func.hardware.hardware import Hardware
 
 
 class HeavyHardware(Hardware):

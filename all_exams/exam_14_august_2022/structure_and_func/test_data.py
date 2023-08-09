@@ -1,4 +1,4 @@
-from oop.all_exams.exam_14_august_2022.structure_and_func.horse_race_app import HorseRaceApp
+from all_exams.exam_14_august_2022.structure_and_func.horse_race_app import HorseRaceApp
 
 horseRaceApp = HorseRaceApp()
 print(horseRaceApp.add_horse("Appaloosa", "Spirit", 80))

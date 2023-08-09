@@ -1,7 +1,7 @@
-from oop.all_exams.exam_10_december_2022.structure_and_func.booths.open_booth import OpenBooth
-from oop.all_exams.exam_10_december_2022.structure_and_func.booths.private_booth import PrivateBooth
-from oop.all_exams.exam_10_december_2022.structure_and_func.delicacies.stolen import Stolen
-from oop.all_exams.exam_10_december_2022.structure_and_func.delicacies.gingerbread import Gingerbread
+from all_exams.exam_10_december_2022.structure_and_func.booths.open_booth import OpenBooth
+from all_exams.exam_10_december_2022.structure_and_func.booths.private_booth import PrivateBooth
+from all_exams.exam_10_december_2022.structure_and_func.delicacies.stolen import Stolen
+from all_exams.exam_10_december_2022.structure_and_func.delicacies.gingerbread import Gingerbread
 
 
 class ChristmasPastryShopApp:

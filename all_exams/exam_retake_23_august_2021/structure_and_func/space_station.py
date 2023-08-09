@@ -1,9 +1,9 @@
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.planet.planet_repository import PlanetRepository
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.astronaut_repository import AstronautRepository
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.geodesist import Geodesist
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.meteorologist import Meteorologist
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.biologist import Biologist
-from oop.all_exams.exam_retake_23_august_2021.structure_and_func.planet.planet import Planet
+from all_exams.exam_retake_23_august_2021.structure_and_func.planet.planet_repository import PlanetRepository
+from all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.astronaut_repository import AstronautRepository
+from all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.geodesist import Geodesist
+from all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.meteorologist import Meteorologist
+from all_exams.exam_retake_23_august_2021.structure_and_func.astronaut.biologist import Biologist
+from all_exams.exam_retake_23_august_2021.structure_and_func.planet.planet import Planet
 
 
 class SpaceStation:

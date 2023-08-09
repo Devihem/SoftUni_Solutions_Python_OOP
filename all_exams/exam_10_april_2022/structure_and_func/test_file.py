@@ -1,7 +1,7 @@
-from oop.all_exams.exam_10_april_2022.structure_and_func.controller import Controller
-from oop.all_exams.exam_10_april_2022.structure_and_func.player import Player
-from oop.all_exams.exam_10_april_2022.structure_and_func.supply.drink import Drink
-from oop.all_exams.exam_10_april_2022.structure_and_func.supply.food import Food
+from all_exams.exam_10_april_2022.structure_and_func.controller import Controller
+from all_exams.exam_10_april_2022.structure_and_func.player import Player
+from all_exams.exam_10_april_2022.structure_and_func.supply.drink import Drink
+from all_exams.exam_10_april_2022.structure_and_func.supply.food import Food
 
 controller = Controller()
 apple = Food("apple", 22)

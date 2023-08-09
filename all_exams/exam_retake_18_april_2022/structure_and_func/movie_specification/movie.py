@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from oop.all_exams.exam_retake_18_april_2022.structure_and_func.user import User
+from all_exams.exam_retake_18_april_2022.structure_and_func.user import User
 
 
 class Movie(ABC):

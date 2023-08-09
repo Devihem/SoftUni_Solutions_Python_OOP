@@ -1,7 +1,7 @@
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.client import Client
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.main_dish import MainDish
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.dessert import Dessert
-from oop.all_exams.exam_retake_22_august_2022.structure_and_func.meals.starter import Starter
+from all_exams.exam_retake_22_august_2022.structure_and_func.client import Client
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.main_dish import MainDish
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.dessert import Dessert
+from all_exams.exam_retake_22_august_2022.structure_and_func.meals.starter import Starter
 
 
 class FoodOrdersApp:

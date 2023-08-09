@@ -1,4 +1,4 @@
-from oop.all_exams.exam_15_august_2021.structure_and_func.drink.drink import Drink
+from all_exams.exam_15_august_2021.structure_and_func.drink.drink import Drink
 
 
 class Tea(Drink):

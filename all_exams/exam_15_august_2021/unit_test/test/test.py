@@ -1,4 +1,4 @@
-from oop.all_exams.exam_15_august_2021.unit_test.pet_shop import PetShop
+from all_exams.exam_15_august_2021.unit_test.pet_shop import PetShop
 from unittest import TestCase, main
 
 

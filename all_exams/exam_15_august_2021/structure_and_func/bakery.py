@@ -1,9 +1,9 @@
-from oop.all_exams.exam_15_august_2021.structure_and_func.baked_food.bread import Bread
-from oop.all_exams.exam_15_august_2021.structure_and_func.baked_food.cake import Cake
-from oop.all_exams.exam_15_august_2021.structure_and_func.drink.tea import Tea
-from oop.all_exams.exam_15_august_2021.structure_and_func.drink.water import Water
-from oop.all_exams.exam_15_august_2021.structure_and_func.table.inside_table import InsideTable
-from oop.all_exams.exam_15_august_2021.structure_and_func.table.outside_table import OutsideTable
+from all_exams.exam_15_august_2021.structure_and_func.baked_food.bread import Bread
+from all_exams.exam_15_august_2021.structure_and_func.baked_food.cake import Cake
+from all_exams.exam_15_august_2021.structure_and_func.drink.tea import Tea
+from all_exams.exam_15_august_2021.structure_and_func.drink.water import Water
+from all_exams.exam_15_august_2021.structure_and_func.table.inside_table import InsideTable
+from all_exams.exam_15_august_2021.structure_and_func.table.outside_table import OutsideTable
 
 
 class Bakery:

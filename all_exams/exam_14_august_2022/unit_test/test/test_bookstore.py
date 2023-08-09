@@ -1,4 +1,4 @@
-from oop.all_exams.exam_14_august_2022.unit_test.bookstore import Bookstore
+from all_exams.exam_14_august_2022.unit_test.bookstore import Bookstore
 from unittest import TestCase, main
 
 

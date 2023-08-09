@@ -1,4 +1,4 @@
-from oop.all_exams.exam_11_december_2021.unit_test.project.team import Team
+from all_exams.exam_11_december_2021.unit_test.project.team import Team
 from unittest import TestCase, main
 
 
