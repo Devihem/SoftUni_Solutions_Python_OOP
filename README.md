@@ -1,4 +1,4 @@
-![SoftUni-Logo](https://raw.githubusercontent.com/Devihem/SoftUni_Solutions_Python_OOP/master/Softuni_logo_trasparent-1536x291.png)
+[![SoftUni-Logo](https://raw.githubusercontent.com/Devihem/SoftUni_Solutions_Python_OOP/master/Softuni_logo_trasparent-1536x291.png)](https://softuni.bg/courses/python-oop)
 
 ## Python - OOP - Course - 2023      - [[ LINK: CERTIFICATE & GRADE:](https://softuni.bg/certificates/details/180829/596f8baf)  A+ / 6.00 ]
 
