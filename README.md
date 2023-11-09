@@ -4,7 +4,7 @@
 
   This repository contains all assignments and problems included in the course. It also contains all additional exams that exist for the current period. Created for preview or to help other students taking the same course.
 
-## About the course:
+## About the course: - [[LINK: COURSE INFO](https://softuni.bg/courses/python-oop)]
 
 The course focuses on understanding the principles of Object Oriented Programming (OOP) and its applications and methods, working through many tasks and problems to  consolidate the new knowledge, as well as exploring and learning how to use UnitTest and TestCase in particular.
 
