@@ -1,6 +1,6 @@
 [![SoftUni-Logo](https://raw.githubusercontent.com/Devihem/SoftUni_Solutions_Python_OOP/master/Softuni_logo_trasparent-1536x291.png)](https://softuni.bg/courses/python-oop)
 
-## Python - OOP - Course - 2023      -[[ LINK: CERTIFICATE & GRADE:](https://softuni.bg/certificates/details/180829/596f8baf)  A+ / 6.00 ]
+## Python - OOP - Course - 2023      -[[ LINK: CERTIFICATE & GRADE:](https://softuni.bg/certificates/details/180829/596f8baf)  A+ / 6.00]
 
   This repository contains all assignments and problems included in the course. It also contains all additional exams that exist for the current period. Created for preview or to help other students taking the same course.
 
